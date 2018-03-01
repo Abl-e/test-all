@@ -1,0 +1,8 @@
+INSERT INTO T_EAMS_DM (BXH, DM, YX, XSSX, SFTJDM, MC, BKWH) VALUES (30041, 11, 1, 10, null, '移送上诉', null);
+INSERT INTO T_EAMS_DM (BXH, DM, YX, XSSX, SFTJDM, MC, BKWH) VALUES (30041, 12, 1, 11, null, '内部评查借阅', null);
+INSERT INTO T_EAMS_DM (BXH, DM, YX, XSSX, SFTJDM, MC, BKWH) VALUES (30041, 13, 1, 12, null, '退费审查', null);
+INSERT INTO T_EAMS_DM (BXH, DM, YX, XSSX, SFTJDM, MC, BKWH) VALUES (30041, 14, 1, 13, null, '审委会调卷', null);
+INSERT INTO T_EAMS_DM (BXH, DM, YX, XSSX, SFTJDM, MC, BKWH) VALUES (30041, 15, 1, 14, null, '律师和当事人借阅', null);
+我是新加的
+我是新加的
+我是新加的
